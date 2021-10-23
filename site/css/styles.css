@@ -38,7 +38,7 @@ select{padding:3px;text-align:center;color:#999;}
 .links a:hover{color:#005599;}
 .br{clear:both;}*{margin:0;padding:0;}
 /* Body Properties */
-body{background:url('dz.jpg');color:#ffffff;font-family:Tahoma,Geneva,sans-serif;}
+body{background:url('dz.jpg');color:#ffffff;font-family:Tahoma,Geneva,sans-serif;background-repeat: round;}
 /* Table Properties */
 table{padding:0px;border:0px;}tr{padding:0px;border:0px;}
 td{padding:0px;border:0px;}
